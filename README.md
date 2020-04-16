@@ -1,2 +1,2 @@
 # cnn
-Convolutional networks for image recoginization if hands
+Convolutional networks for image recoginization of number of fingers.
